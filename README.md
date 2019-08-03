@@ -5,7 +5,7 @@
 ## Build Setup
 
 ``` bash
-# install dependencies as suggested in [here](https://www.npmjs.com/package/vue-js-toggle-button)
+# install dependencies as suggested in https://www.npmjs.com/package/vue-js-toggle-button
 npm install vue-js-toggle-button --save
 
 # serve with hot reload at localhost:8080
