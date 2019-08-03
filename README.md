@@ -1,12 +1,12 @@
-# a
+# rest_api
 
-> A Vue.js project
+> Submitting Vue.js web form using REST API.
 
 ## Build Setup
 
 ``` bash
-# install dependencies
-npm install
+# install dependencies as suggested in [here] (https://www.npmjs.com/package/vue-js-toggle-button)
+npm install vue-js-toggle-button --save
 
 # serve with hot reload at localhost:8080
 npm run dev
